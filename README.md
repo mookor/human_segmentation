@@ -1,4 +1,4 @@
-# ноутбуки
+# Segmentation + classification
 Здесь можно найти два варианта решения задачи:
 1. __main.ipynb__:
 - В качестве декодера Unet использовалась связка Conv+Upscale
